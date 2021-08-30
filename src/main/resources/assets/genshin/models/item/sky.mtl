@@ -1,0 +1,4 @@
+newmtl m0
+
+Kd 1.00 1.00 1.00
+map_Kd genshin:item/tex0002.png

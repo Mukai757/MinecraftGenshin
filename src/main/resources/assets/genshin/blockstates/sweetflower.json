@@ -1,0 +1,19 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "genshin:sky.obj",
+    "custom": {
+      "flip-v": true
+    },
+    "textures": {
+      "#m0": "genshin:item/tex0002"
+    }
+  },
+  "variants": {
+    "inventory": [
+      {
+        "transform": "forge:default-item"
+      }
+    ]
+  }
+}

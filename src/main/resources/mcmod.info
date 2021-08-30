@@ -1,0 +1,16 @@
+[
+{
+  "MODID": "genshin",
+  "name": "GenshinImpact",
+  "description": "Hello£¬World",
+  "version": "${version}",
+  "MCversion": "1.12.2",
+  "Url": "https://www.mcmod.cn/class/3335.html",
+  "updateUrl": "",
+  "authorList": ["Mukai"],
+  "credits": "233",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

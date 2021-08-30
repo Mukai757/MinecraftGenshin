@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_top",
+    "textures": {
+        "top": "genshin:block/Item_Plant_LY_GogoFruit_Diffuse",
+        "side": "genshin:block/Item_Plant_LY_GogoFruit_Diffuse"
+    }
+} 
